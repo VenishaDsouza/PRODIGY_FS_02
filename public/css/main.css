@@ -117,6 +117,26 @@ body {
 }
 
 
-
+.about-hero {
+      background: linear-gradient(to right, #4c6ef5, #74c0fc);
+      color: white;
+      padding: 3rem 1.5rem;
+      border-radius: 12px;
+      margin-bottom: 2rem;
+      text-align: center;
+    }
+    .card-section {
+      background-color: #ffffff;
+      border-radius: 12px;
+      padding: 2rem;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+      margin-bottom: 1.5rem;
+    }
+    h3 {
+      color: #4c6ef5;
+    }
+    ul li {
+      margin-bottom: 0.5rem;
+    }
 
 

@@ -33,7 +33,7 @@ exports.about = async (req,res) => {
         description: 'Employee Management System'
     }
     try {
-        res.render('about', locals );
+        res.render('about', { locals });
     } catch (error) {
         console.log(error);
     }
