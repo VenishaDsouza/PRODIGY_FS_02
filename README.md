@@ -18,7 +18,7 @@ StaffSync is a full-stack web application designed to simplify employee data man
 
 ### 1. Clone this repository 
 ```bash
-git clone https://github.com/your-username/staffsync.git
+git clone https://github.com/VenishaDsouza/PRODIGY_FS_02
 ```
 
 ### 2. Install Backend Dependencies
